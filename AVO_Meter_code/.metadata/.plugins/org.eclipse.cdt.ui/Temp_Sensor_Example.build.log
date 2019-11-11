@@ -1,0 +1,20 @@
+14:28:07 **** Incremental Build of configuration Debug for project Temp_Sensor_Example ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 Temp_Sensor_Example.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:    6868 bytes (41.9% Full)
+(.text + .data + .bootloader)
+
+Data:        272 bytes (26.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+14:28:07 Build Finished. 0 errors, 0 warnings. (took 247ms)
+

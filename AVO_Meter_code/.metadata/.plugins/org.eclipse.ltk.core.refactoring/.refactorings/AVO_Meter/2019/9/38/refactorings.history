@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Potentiometer_Example/potentiometer.c&apos; to &apos;main.c&apos;" description="Rename resource &apos;potentiometer.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="potentiometer.c" name="main.c" stamp="1568831885426" updateReferences="true"/>
+</session>

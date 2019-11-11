@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;motor_speed/lcd.h&apos; to &apos;AVOMeter.h&apos;" description="Rename resource &apos;lcd.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="lcd.h" name="AVOMeter.h" stamp="1570913712335" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;motor_speed/AVOMeter.h&apos; to &apos;lcd.h&apos;" description="Rename resource &apos;AVOMeter.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="AVOMeter.h" name="lcd.h" stamp="1570913736461" updateReferences="true"/>
+</session>
